@@ -16,7 +16,7 @@
       <Button Text="Share your dishes" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Purple"
         HorizontalOptions="FillAndExpand" Clicked="ViewTimeline_Clicked"/>
       
-      <Button x:Name="loginButton" Text="Sign-in" MinimumHeightRequest="30"
+      <Button x:Name="loginButton" Text="Facebook Sign-in" MinimumHeightRequest="30"
         Clicked="loginButton_Clicked"/>
       
     </StackLayout>

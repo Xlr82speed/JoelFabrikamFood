@@ -1,5 +1,3 @@
-C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.MainPage.xaml.g.cs
-C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.App.xaml.g.cs
 C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\FabrikamFoods2.dll
 C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\FabrikamFoods2.pdb
 C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\Xamarin.Forms.Core.dll
@@ -26,11 +24,16 @@ C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.csproj.App.config
-C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.ViewSuggestions.xaml.g.cs
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\Plugin.Settings.Abstractions.dll
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\Plugin.Settings.dll
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\Plugin.Settings.xml
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\Plugin.Settings.Abstractions.xml
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.csprojResolveAssemblyReference.cache
-C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.dll.mdb
-C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\FabrikamFoods2.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.Views.MainPage.xaml.g.cs
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.Views.App.xaml.g.cs
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.Views.ViewSuggestions.xaml.g.cs
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.Views.RootPage.xaml.g.cs
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\FabrikamFoods2.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\obj\Debug\FabrikamFoods2.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2\bin\Debug\FabrikamFoods2.dll.mdb

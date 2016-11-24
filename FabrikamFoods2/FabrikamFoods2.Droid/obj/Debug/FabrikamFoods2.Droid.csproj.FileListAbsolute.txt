@@ -95,5 +95,5 @@ C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\obj\Debug\FabrikamFoods2.Droid.dll.mdb
-C:\Users\JOEL\Documents\Visual Studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\bin\Debug\FabrikamFoods2.Droid.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\obj\Debug\FabrikamFoods2.Droid.dll.mdb
+C:\Users\JOEL\documents\visual studio 2015\Projects\FabrikamFoods2\FabrikamFoods2\FabrikamFoods2.Droid\bin\Debug\FabrikamFoods2.Droid.dll.mdb

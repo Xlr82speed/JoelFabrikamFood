@@ -17,7 +17,7 @@ namespace FabrikamFood2
 
         private AzureManager()
         {
-            this.client = new MobileServiceClient("http://MSAMobileAppTraning.azurewebsites.net");
+            this.client = new MobileServiceClient("https://MSAMobileAppTraning.azurewebsites.net");
             this.timelineTable = this.client.GetTable<Timeline>();
         }
 

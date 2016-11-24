@@ -1,18 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
 namespace FabrikamFoods2
 {
-    public partial class ViewSuggestions : ContentPage
+    public partial class RootPage : MasterDetailPage
     {
-        public ViewSuggestions()
+        public RootPage()
         {
             InitializeComponent();
+            MasterBehavior = MasterBehavior.Popover;
         }
     }
 }

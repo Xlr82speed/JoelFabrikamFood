@@ -5,10 +5,10 @@
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
   <StackLayout Spacing="0" x:Name="layout" >
 
-    <Button Text="Place an Order" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Purple"
+    <Button Text="Give us your rating" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Black"
     HorizontalOptions="FillAndExpand" Clicked="Order_Clicked"/>
 
-    <Button Text="View previous Orders" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Purple"
+    <Button Text="View ratings" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Black"
     HorizontalOptions="FillAndExpand" Clicked="PrevSuggestions_Clicked"/>
 
     <ListView x:Name="TimelineList" HasUnevenRows="True">

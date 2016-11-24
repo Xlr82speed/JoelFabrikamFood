@@ -11,6 +11,21 @@ namespace FabrikamFoods2
     public partial class App : Application
     {
 
+        public static NavigationPage NavigationPage { get; private set; }
+        public static RootPage RootPage;
+
+        public static bool MenuIsPresented
+        {
+            get
+            {
+                return RootPage.IsPresented;
+            }
+            set
+            {
+                RootPage.IsPresented = value;
+            }
+        }
+
         public interface IAuthenticate
         {
             Task<bool> Authenticate();
