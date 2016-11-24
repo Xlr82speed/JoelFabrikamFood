@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FabrikamFood.ViewSuggestions">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout Spacing="0" x:Name="layout" >
+
+    <Button Text="Place an Order" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Purple"
+    HorizontalOptions="FillAndExpand" Clicked="Order_Clicked"/>
+    
+    <Button Text="View previous Orders" TextColor="Yellow" VerticalOptions="FillAndExpand" BackgroundColor="Purple"
+    HorizontalOptions="FillAndExpand" Clicked="PrevSuggestions_Clicked"/>
+
+    <ListView x:Name="TimelineList" HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Grid>
+              <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50*" />
+                <ColumnDefinition Width="50*" />
+                <ColumnDefinition Width="50*" />
+              </Grid.ColumnDefinitions>
+              <Label Grid.Column="0" Text="{Binding Date}"/>
+              <Label Grid.Column="1" Text="{Binding Dish}"/>
+              <Label Grid.Column="2" Text="{Binding Rating}"/>
+            </Grid>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    
+  </StackLayout>
+  
+</ContentPage>

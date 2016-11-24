@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" p2:installLocation="auto" xmlns:p2="http://schemas.android.com/apk/res/android" p2:versionCode="1" p2:versionName="1.0" package="FabrikamFood.Droid">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk p4:minSdkVersion="15" p2:minSdkVersion="11" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p2:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-feature p2:glEsVersion="0x00020000" p2:required="true" />
+  <uses-permission p4:name="android.permission.INTERNET" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="com.google.android.providers.gsf.permission.READ_GSERVICES" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.WRITE_EXTERNAL_STORAGE" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_FINE_LOCATION" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_COARSE_LOCATION" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_MOCK_LOCATION" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_NETWORK_STATE" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p4:name="android.permission.ACCESS_WIFI_STATE" xmlns:p4="http://msamobileapptraning.azurewebsites.net" />
+  <uses-permission p2:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission p2:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission p2:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission p2:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission p2:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission p2:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission p2:name="android.permission.INTERNET" />
+  <uses-permission p2:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application p4:label="FabrikamFood.Droid" p2:label="FabrikamFood.Droid" p2:name="android.app.Application" p2:allowBackup="true" p2:icon="@drawable/icon" p2:debuggable="true" xmlns:p4="http://msamobileapptraning.azurewebsites.net">
+    <meta-data p4:name="com.google.android.maps.v2.API_KEY" p4:value="AIzaSyCionMYYdG-qZD-oXrsojPG-FMU4ZhJzI4" />
+    <meta-data p4:name="com.google.android.gms.version" p4:value="@integer/google_play_services_version" />
+    <meta-data p2:name="com.google.android.gms.version" p2:value="@integer/google_play_services_version" />
+    <activity p2:configChanges="orientation|screenSize" p2:icon="@drawable/icon" p2:label="FabrikamFood" p2:theme="@style/MainTheme" p2:name="md54c6c6ea569e1a728307fb96b21557bfd.MainActivity">
+      <intent-filter>
+        <action p2:name="android.intent.action.MAIN" />
+        <category p2:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity p2:label="Web Authenticator" p2:name="md5901e742fdf284ed0df9a9602f1963168.FormAuthenticatorActivity" />
+    <activity p2:label="Web Authenticator" p2:name="md5901e742fdf284ed0df9a9602f1963168.WebAuthenticatorActivity" />
+    <provider p2:name="mono.MonoRuntimeProvider" p2:exported="false" p2:initOrder="2147483647" p2:authorities="FabrikamFood.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver p2:name="mono.android.Seppuku">
+      <intent-filter>
+        <action p2:name="mono.android.intent.action.SEPPUKU" />
+        <category p2:name="mono.android.intent.category.SEPPUKU.FabrikamFood.Droid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
