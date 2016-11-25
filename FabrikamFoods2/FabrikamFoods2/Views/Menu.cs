@@ -23,6 +23,7 @@ namespace FabrikamFoods2
 
             var listView = new ListView();
             listView.ItemsSource = new string[]{
+            "                                   MENU",
             "$23      Cakes",
             "$25      Curry",
             "$23      Fried Rice",
